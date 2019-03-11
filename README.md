@@ -4,12 +4,13 @@
 ## Introduction
 Welcome to the ABE598 problem set code repository.
 
-If you are new to git you can clone this code by doing the following
+If you are new to git you can clone this code by doing the following  
 `git clone https://github.com/Jbwasse2/ABE598_python.git skeleton_code`
 
 
 ## Installation
-To get all of the requirements to run this project please run
+To get all of the requirements to run this project please run  
+
 `pip install -r requirements.txt`  
 
 or
