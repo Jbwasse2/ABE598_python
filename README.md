@@ -18,8 +18,9 @@ or
 conda create -n abe598 python=3.7 anaconda  
 conda activate abe598  
 conda install --file requirements.txt    
-depending on if you prefer installing with anaconda or pip.
 ```
+
+depending on if you prefer installing with anaconda or pip.
 
 ## Bugs
 If you find an error in the skeleton code either make an issue in the 'issues' tab and describe how you obtained your bug. If you fixed the code on your computer, please make a pull request and if it is correct I will add it to master.
